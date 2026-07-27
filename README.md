@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 0xSCHfL</h2>
+<h2 align="left">Hi 👋! My name is 0xSSfL</h2>
 
 ###
 
@@ -65,6 +65,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/j0oyboy/j0oyboy/output/github-snake.svg" />
 </picture>
 
-<h3 align="left">Support Me :</h3>
 
 ###
